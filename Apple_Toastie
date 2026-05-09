@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Apple toastie</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h1>Apple toastie</h1>
+  <h2>Ingredients</h2>
+  <ul>
+    <li>Wheat flour</li>
+    <li>Homeade Apple jam</li>
+    <li>Vegetable oil</li>
+    <li>Fresh eggs</li>
+    <li>Butter</li>
+    <li>Baking powder</li>
+    <li>Sugar</li>
+    <li>Salt</li>
+  </ul>
+
+  <p><a href="index.html">Back to list</a></p>
+</body>
+</html>
