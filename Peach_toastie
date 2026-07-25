@@ -1,1 +1,23 @@
-hsjs
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Peach toastie</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h1>Peach toastie</h1>
+  <h2>Ingredients</h2>
+  <ul>
+    <li>Wheat flour</li>
+    <li>Homeade Peach jam</li>
+    <li>Vegetable oil</li>
+    <li>Fresh eggs</li>
+    <li>Baking powder</li>
+    <li>Sugar</li>
+    <li>Salt</li>
+  </ul>
+
+  <p><a href="index.html">Back to list</a></p>
+</body>
+</html>
